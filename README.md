@@ -36,7 +36,7 @@ Puedes explorar el código completo, las explicaciones paso a paso y las gráfic
 
 > 💡 **Nota:** GitHub renderiza los archivos `.ipynb` de forma nativa, por lo que puedes visualizar todo el código, los comentarios y los resultados de las ejecuciones directamente desde tu navegador sin necesidad de descargar nada.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/red_neuronal_iris.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alexisfpy/Red-Neuronal-Iris/blob/main/red_neuronal_iris.ipynb)
 ## ⚙️ Instalación y Uso
 
 Sigue estos pasos para clonar el proyecto y ejecutar el modelo en tu máquina local:
