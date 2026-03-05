@@ -7,20 +7,17 @@ name = "red-neuronal-iris"
 version = "0.1.0"
 description = "Iris Species Classification using Deep Learning with PyTorch"
 readme = "README.md"
-requires-python = ">=3.10" # Más compatible, pero puedes dejar 3.14 si lo prefieres
+requires-python = ">=3.12"
 authors = [{ name = "Alexisfpy" }]
 dependencies = [
     "matplotlib>=3.10.8",
     "pandas>=3.0.1",
     "tensorboard>=2.20.0",
     "torch>=2.10.0",
+    "notebook", 
+    "ipywidgets"
 ]
 
-[tool.setuptools]
-# Esta es la clave: le decimos que NO busque paquetes automáticamente
-# para que ignore las carpetas 'data' y 'notebooks'
-package-discovery = false
 
-[tool.setuptools.packages.find]
-# Forzamos que ignore todo lo que no sea código puro
-exclude = ["data*", "notebooks*", "modelos*"]
+[tool.setuptools]
+packages = []
