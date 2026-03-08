@@ -32,7 +32,7 @@ Durante el desarrollo de este modelo, se han aplicado buenas prácticas de Deep 
 
 Puedes explorar el código completo, las explicaciones paso a paso y las gráficas generadas directamente en el cuaderno principal del proyecto haciendo clic en el siguiente enlace:
 
-👉 **[Abrir el Jupyter Notebook: `red_neuronal_iris.ipynb`](./red_neuronal_iris.ipynb)**
+👉 **[Abrir el Jupyter Notebook: `red_neuronal_iris.ipynb`](/notebooks/red_neuronal_iris.ipynb)**
 
 > 💡 **Nota:** GitHub renderiza los archivos `.ipynb` de forma nativa, por lo que puedes visualizar todo el código, los comentarios y los resultados de las ejecuciones directamente desde tu navegador sin necesidad de descargar nada.
 

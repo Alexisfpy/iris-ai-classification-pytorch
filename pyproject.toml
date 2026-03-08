@@ -1,12 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "red-neuronal-iris"
 version = "0.1.0"
-description = "Add your description here"
+description = "Iris Species Classification using Deep Learning with PyTorch"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
+authors = [{ name = "Alexisfpy" }]
 dependencies = [
     "matplotlib>=3.10.8",
     "pandas>=3.0.1",
     "tensorboard>=2.20.0",
     "torch>=2.10.0",
+    "notebook", 
+    "ipywidgets"
 ]
+
+
+[tool.setuptools]
+packages = []
