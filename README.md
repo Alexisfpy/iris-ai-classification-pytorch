@@ -54,7 +54,7 @@ sudo apt install python3-venv
 Abre tu terminal y descarga el código:
 
 ```bash
-git clone [https://github.com/Alexisfpy/Red-Neuronal-Iris.git(https://github.com/Alexisfpy/Red-Neuronal-Iris.git)
+git clone https://github.com/Alexisfpy/iris-ai-classification-pytorch.git
 cd Red-Neuronal-Iris
 
 ```
